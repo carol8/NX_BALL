@@ -1,0 +1,8 @@
+int x0, y0, xmax, ymax
+int i = 22
+dArea[x0][y0+i]
+
+esi = bounce lateral
+edi = bounce vertical
+ebx = maxim vertical (gen offset pentru verticala = cati pixeli maxim stanga sau dreapta)
+edx = maxim lateral (gen offset pentru orizontala = cati pixeli maxim sus sau jos)
