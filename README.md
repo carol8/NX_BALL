@@ -1,4 +1,4 @@
-# NX_BALL
+# NX BALL
 A copy of the famous Atari Breakout, made in x86 ASM
 
 ---
